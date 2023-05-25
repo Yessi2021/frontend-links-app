@@ -1,0 +1,20 @@
+
+.maps {
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom {
+    -ms-touch-action: none;
+    touch-action: none;
+    width: 500px;
+    height: 400px;
+     margin-top: 70px;
+}
+
+.back {
+    text-decoration: none;
+    color: #fff;
+}
+
